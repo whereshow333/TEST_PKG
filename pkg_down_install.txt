@@ -1,0 +1,27 @@
+下載
+pip download -d C:\Users\BK00319\Desktop\matplotlib matplotlib==3.4.2
+pip download -d C:\Users\BK00319\Desktop\scipy scipy==1.6.3
+pip download -d C:\Users\BK00319\Desktop\scikit-learn scikit-learn==0.24.2
+pip download -d C:\Users\BK00319\Desktop\tensorflow tensorflow==2.5.0
+pip download -d C:\Users\BK00319\Desktop\jupyterlab jupyterlab==3.0.16
+pip download -d C:\Users\BK00319\Desktop\flask flask==2.0.1
+pip download -d C:\Users\BK00319\Desktop\cx-Oracle cx-Oracle==8.2.0
+pip download -d C:\Users\BK00319\Desktop\ckiptagger ckiptagger==0.2.1
+pip download -d C:\Users\BK00319\Desktop\spyder spyder==4.2.5
+
+
+安裝
+pip install --no-index --find-links=C:\Users\BK00319\Desktop\matplotlib matplotlib==3.4.2
+pip install --no-index --find-links=C:\Users\BK00319\Desktop\scipy scipy==1.6.3
+pip install --no-index --find-links=C:\Users\BK00319\Desktop\scikit-learn scikit-learn==0.24.2
+pip install --no-index --find-links=C:\Users\BK00319\Desktop\tensorflow tensorflow==2.5.0
+pip install --no-index --find-links=C:\Users\BK00319\Desktop\jupyterlab jupyterlab==3.0.16
+pip install --no-index --find-links=C:\Users\BK00319\Desktop\flask flask==2.0.1
+pip install --no-index --find-links=C:\Users\BK00319\Desktop\cx-Oracle cx-Oracle==8.2.0
+pip install --no-index --find-links=C:\Users\BK00319\Desktop\ckiptagger ckiptagger==0.2.1
+pip install --no-index --find-links=C:\Users\BK00319\Desktop\spyder spyder==4.2.5
+
+pip install --no-index --find-links=C:\Users\BK00319\Desktop\stdiomask stdiomask==0.0.5
+
+
+pip download --proxy=http://proxy.lbtw.linebanktw.com:8080 --trusted-host pypi.org --trusted-host files.pythonhosted.org --default-timeout=100 -d C:\Users\BK00319\Desktop\tableauserverclient tableauserverclient==0.16.0
